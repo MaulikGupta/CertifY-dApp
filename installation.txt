@@ -1,0 +1,3 @@
+truffle unbox react
+npm install ipfs-api
+
